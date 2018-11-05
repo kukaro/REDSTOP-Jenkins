@@ -1,0 +1,6 @@
+/TargetServer
+
+cd ~/TargetServer/express
+sudo npm install
+pm2 stop all
+pm2 start bin/www

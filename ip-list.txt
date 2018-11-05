@@ -1,8 +1,8 @@
 CollectServer	13.209.151.239
-APIServer		52.79.221.114
+APIServer		52.79.221.114:3000
 RDBMS			52.79.40.146
 WorkerServer	54.180.31.203
-ViewServer		54.180.80.191
+ViewServer		54.180.80.191:3000
 TargetServer	13.209.126.84
 TimeSeriesDB	52.79.135.42
 Jenkins			13.125.237.72
