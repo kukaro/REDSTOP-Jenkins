@@ -1,0 +1,4 @@
+/WorkerServer
+
+cd ~/WorkerServer
+sudo sh init.sh
