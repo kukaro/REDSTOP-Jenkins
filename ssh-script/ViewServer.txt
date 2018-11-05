@@ -1,0 +1,4 @@
+/ViewServer
+
+cd ~/ViewServer
+sudo sh init.sh
