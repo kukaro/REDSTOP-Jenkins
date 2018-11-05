@@ -1,0 +1,3 @@
+/CollectServer
+
+sh ~/CollectServer/init.sh

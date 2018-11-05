@@ -1,0 +1,5 @@
+/RDBMS
+
+cd ~/RDBMS
+sh remove.sh
+sh init.sh
